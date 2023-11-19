@@ -36,6 +36,7 @@ Click `HDRi Maker Docs <https://hdri-maker-docs.readthedocs.io/en/latest/>`_ to 
    :align: center
    :width: 800
    :alt: HDRi Maker
+   :target: https://hdri-maker-docs.readthedocs.io/en/latest/
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -48,3 +49,5 @@ Click on `Cyber Holograms Docs <https://cyber-holograms-docs.readthedocs.io/en/l
    :align: center
    :width: 800
    :alt: Cyber Holograms
+   :target: https://cyber-holograms-docs.readthedocs.io/en/latest/
+
