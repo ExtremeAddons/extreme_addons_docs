@@ -39,8 +39,8 @@ logo = os.path.join(os.path.relpath(os.path.dirname(__file__)), "_static", "_ima
 
 html_logo = logo
 html_theme_options = {
-    'logo_only': True,
-    'display_version': True,
+    'logo_only': False,
+    'display_version': False,
     'titles_only': True
 }
 
