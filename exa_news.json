@@ -1,0 +1,36 @@
+{
+	"news_json": {
+		"hot": {
+			"0": {
+				"title": "Hot Title 1",
+				"url": "",
+				"descriptions": {
+					"1": {
+						"subtitle": "Hot subtitle",
+						"description": "description"
+					},
+					"2": {
+						"subtitle": false,
+						"description": "description"
+					}
+				}
+			}
+		},
+		"news": {
+			"0": {
+				"title": "News Title test",
+				"url": "https:\/\/extreme-addons.com\/prodotto\/test-prod\/",
+				"descriptions": {
+					"1": {
+						"subtitle": "Fixed version update check",
+						"description": "Desc for changes"
+					},
+					"2": {
+						"subtitle": false,
+						"description": "Desc for changes"
+					}
+				}
+			}
+		}
+	}
+}
